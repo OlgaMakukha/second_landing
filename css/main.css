@@ -375,7 +375,7 @@ section {
 }
 
 .checkbox__item:checked+label::before {
-    background-image: url(/img/checkbox.png);
+    background-image: url(/img/checkbox.svg);
     background-color: #1a71ce;
 }
 
@@ -408,7 +408,7 @@ section {
 }
 
 .radio__item:checked+label::before {
-    background-image: url(/img/radio.png);
+    background-image: url(/img/radio.svg);
     background-color: #1a71ce;
 }
 
@@ -435,7 +435,7 @@ section {
     border-radius: 20px;
 
     background-color: #c2c2c2;
-    background-image: url(/img/button-item.png);
+    background-image: url(/img/button-item.svg);
     background-repeat: no-repeat;
     background-position: 24px center;
     background-size: 17px 17px;
